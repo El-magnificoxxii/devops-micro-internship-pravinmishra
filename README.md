@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Abdullateef Oni |
+| **LinkedIn** | [Abdullateef Oni](https://www.linkedin.com/in/abdullateef-oni-8b5a01110/) |
+| **Location** | Lagos, Nigeria |
+| **Background** | Cloud, FinOps Consultant |
+| **Goal** | Achieve intermediate-level proficiency in DevOps within 6 -12 months|
 
 ---
 
